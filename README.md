@@ -1,2 +1,2 @@
-# PocketBeagle
-test repo
+# PocketBeagle RSLK Mod
+This is a test repo
